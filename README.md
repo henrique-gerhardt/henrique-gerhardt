@@ -1,6 +1,6 @@
 👋 Hi, I’m @henrique-gerhardt
 - 👀 I’m interested in web technologies and full stack development
-- 🌱 I’m currently learning Rust, Svelte and Flutter
+- 🌱 I’m currently learning Rust and Flutter
 - 📫 [How to reach me ...](https://www.linkedin.com/in/henrique-gerhardt-980b9a14b)
 
 <!---
